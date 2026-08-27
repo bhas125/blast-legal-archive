@@ -1,2 +1,6 @@
-# caucus-sms-legal
-Public privacy policy and terms for Tennessee House Republican Caucus SMS (A2P 10DLC).
+# Tennessee House Republican Caucus SMS
+
+Public Privacy Policy and Terms and Conditions for A2P 10DLC campaign registration.
+
+- Privacy Policy: privacy.html
+- Terms and Conditions: terms.html
