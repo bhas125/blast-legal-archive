@@ -1,6 +1,5 @@
-# Tennessee House Republican Caucus SMS
+# Blast SMS
 
-Public Privacy Policy and Terms and Conditions for A2P 10DLC campaign registration.
+Public Privacy Policy and Terms and Conditions for A2P 10DLC.
 
-- Privacy Policy: privacy.html
-- Terms and Conditions: terms.html
+Tennessee-based team communications for about 100 people. Blast is the method.
